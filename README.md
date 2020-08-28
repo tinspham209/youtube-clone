@@ -1,6 +1,6 @@
 # Mini Project: Youtube Homepage Clone
 
-## Date: 24 - Aug - 2020
+## Date: 28 - Aug - 2020
 
 ### Tech-Stack
 
